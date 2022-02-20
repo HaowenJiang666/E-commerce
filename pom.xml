@@ -15,6 +15,9 @@
         <module>cornellmall-order</module>
         <module>cornellmall-product</module>
         <module>cornellmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>cornellmall-common</module>
     </modules>
 
 
